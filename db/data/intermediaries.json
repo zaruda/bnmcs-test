@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Range",
+        "order": 1,
+        "type": "Range",
+        "rangeOptions": {
+            "from": 10,
+            "to": 100,
+            "step": 5
+        },
+        "dropdownOptions": null,
+        "createdAt": "2022-03-30T20:42:19.901Z",
+        "id": "c57216d0-b9ab-4624-866d-f12b2ea3aa9e"
+    },
+    {
+        "name": "Dropdown",
+        "order": 2,
+        "type": "Dropdown",
+        "rangeOptions": null,
+        "dropdownOptions": [
+            {
+                "option": "MyOptName",
+                "value": 20
+            }
+        ],
+        "createdAt": "2022-03-30T22:20:44.768Z",
+        "id": "8a8a4c14-6cd7-4edd-b1e7-e415ee884fbc"
+    },
+    {
+        "name": "Third",
+        "order": 3,
+        "type": "Range",
+        "rangeOptions": {
+            "from": 0.08,
+            "to": 10,
+            "step": 0.2
+        },
+        "dropdownOptions": null,
+        "createdAt": "2022-03-30T22:21:31.367Z",
+        "id": "2102a788-28f3-4308-9db8-acd4b7f99985"
+    },
+    {
+        "name": "Ra",
+        "order": 5,
+        "type": "Range",
+        "rangeOptions": {
+            "from": 0.03,
+            "to": 5,
+            "step": 0.01
+        },
+        "dropdownOptions": null,
+        "createdAt": "2022-03-31T08:04:51.362Z",
+        "id": "8fcbb3fc-55af-49f8-9499-87bccd451422"
+    }
+]
